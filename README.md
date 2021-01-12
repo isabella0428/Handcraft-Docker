@@ -1,2 +1,2 @@
 # Handcraft-Docker
-This repo is followed the instruction of "Implementing Docker by yourself"
+This repo follows the instructions of book "Implementing Docker by yourself".
