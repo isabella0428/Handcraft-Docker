@@ -8,8 +8,6 @@ import (
 	"path"
 	"strconv"
 	"syscall"
-
-	
 )
 
 const cgroupMemoryHierarchyMount = "/sys/fs/cgroup/memory"
